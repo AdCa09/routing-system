@@ -1,0 +1,5 @@
+/mysql-data/
+/php.ini/
+apache.conf
+docker-compose.yml
+.htaccess
